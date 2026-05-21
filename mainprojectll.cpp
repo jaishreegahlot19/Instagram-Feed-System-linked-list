@@ -1,7 +1,7 @@
 #include<iostream>
 #include<conio.h>
-#include"studentlink.cpp"
-#include"dbll.cpp"
+#include"singly_linked_list.cpp"
+#include"doubly_linked_list.cpp"
 class MainLinkList
 {
 public:
